@@ -3,7 +3,7 @@
 Simple framework for Creating a Walabot application using Web Socket protocol.<br>
 
 
-###Using the code
+***Using the code***
 
 **NewWalabotAppTemplate**
 
