@@ -50,7 +50,7 @@ Follow **TODO** to add a new Walabot project.
 
 **Server**
 
-The server requires  a Handler in its constructor.
+The server requires  a Handler.
 
 For example: 
 
